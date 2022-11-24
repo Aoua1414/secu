@@ -8,5 +8,5 @@ import java.util.Optional;
 
 @Repository
 public interface profilRepository extends JpaRepository <profil, Long> {
-    Optional <profil> findBynom(String nom);
+    //Optional <profil> findByrole(String role);
 }

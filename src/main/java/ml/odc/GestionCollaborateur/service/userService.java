@@ -1,4 +1,4 @@
 package ml.odc.GestionCollaborateur.service;
 
-public class userService {
+public interface userService {
 }
